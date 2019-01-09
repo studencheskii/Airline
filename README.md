@@ -1,3 +1,2 @@
 # Airline
-
-![](img/ER.jpg)
+![](https://github.com/studencheskii/Airline/blob/master/img/ER.JPG)
