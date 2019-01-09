@@ -1,3 +1,3 @@
 # Airline
 
-![](/img/ER.jpg)
+![](img/ER.jpg)
